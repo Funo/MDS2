@@ -12,5 +12,6 @@ public class DatosDetallados extends Foto {
 	private JLabel estado;
 	private JLabel numVisitas;
 	private int iconoVisitas;
+	private JLabel dirección;
 
 }

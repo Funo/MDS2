@@ -1,5 +1,7 @@
 package UserInterface;
 
+import javax.swing.JButton;
+
 public class ModificarPerfil extends DatosUsuario {
 
 	private JButton volver;

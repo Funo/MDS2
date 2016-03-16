@@ -1,6 +1,9 @@
 package UserInterface;
 
-public class InformaciónListaCasas extends Foto {
+import javax.swing.JLabel;
+import javax.swing.JScrollBar;
+
+public class InformacionListaCasas extends Foto {
 
 	private JLabel ViviendasFavoritas;
 	private JLabel fotoL;

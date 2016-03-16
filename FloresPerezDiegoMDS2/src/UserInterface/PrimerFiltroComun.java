@@ -1,11 +1,16 @@
 package UserInterface;
 
+import javax.swing.JButton;
+import javax.swing.JComboBox;
+import javax.swing.JLabel;
+import javax.swing.JTextField;
+
 public class PrimerFiltroComun {
 
-	private JLabel acciónL;
+	private JLabel accionL;
 	private JLabel cpL;
 	private JLabel provinciaL;
-	private JComboBox acciónCB;
+	private JComboBox accionCB;
 	private JTextField cpTF;
 	private JTextField provinciaTF;
 	private JLabel inicioL;

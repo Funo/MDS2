@@ -1,5 +1,8 @@
 package UserInterface;
-import UserInterface.*;
+import javax.swing.JCheckBox;
+import javax.swing.JComboBox;
+import javax.swing.JLabel;
+import javax.swing.JTextField;
 
 public class ZonaDatosVivienda extends LinkExternos {
 
@@ -18,8 +21,8 @@ public class ZonaDatosVivienda extends LinkExternos {
 	private JTextField superficieTF;
 	private JLabel numeroHabitacionesL;
 	private JTextField numeroHabitacionesTF;
-	private JLabel numeroBañosL;
-	private JTextField numeroBañosTF;
+	private JLabel numeroBanosL;
+	private JTextField numeroBanosTF;
 	private JLabel tipoL;
 	private JComboBox tipoCB;
 	private JLabel terrazaL;
@@ -34,8 +37,8 @@ public class ZonaDatosVivienda extends LinkExternos {
 	private JLabel trasteroL;
 	private JCheckBox trasteroCB;
 	private JLabel mapaL;
-	private JLabel acciónL;
-	private JComboBox acciónCB;
+	private JLabel accionL;
+	private JComboBox accionCB;
 	private JLabel provinciaL;
 	private JTextField provinciaTF;
 	private JLabel cpL;

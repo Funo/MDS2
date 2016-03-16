@@ -1,5 +1,8 @@
 package UserInterface;
 
+import javax.swing.JLabel;
+import javax.swing.JScrollBar;
+
 public class ListaCorreos {
 
 	private JLabel correos;

@@ -1,5 +1,8 @@
 package UserInterface;
 
+import javax.swing.JButton;
+import javax.swing.JLabel;
+
 public class ZonaBotonesComun {
 
 	private JButton contactar;

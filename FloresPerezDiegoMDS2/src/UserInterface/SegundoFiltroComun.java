@@ -1,5 +1,11 @@
 package UserInterface;
 
+import javax.swing.JButton;
+import javax.swing.JCheckBox;
+import javax.swing.JComboBox;
+import javax.swing.JLabel;
+import javax.swing.JTextField;
+
 public class SegundoFiltroComun {
 
 	private JLabel buscadorL;
@@ -9,8 +15,8 @@ public class SegundoFiltroComun {
 	private JTextField superficieTF;
 	private JLabel habitacionesL;
 	private JTextField habitacionesTF;
-	private JLabel bañosL;
-	private JTextField bañosTF;
+	private JLabel banosL;
+	private JTextField banosTF;
 	private JLabel tipoL;
 	private JComboBox tipoCB;
 	private JLabel extrasL;
@@ -22,12 +28,12 @@ public class SegundoFiltroComun {
 	private JCheckBox parkingChB;
 	private JLabel amuebladaL;
 	private JCheckBox amuebladaChB;
-	private JLabel calefacción;
-	private JCheckBox calefacciónChB;
+	private JLabel calefaccion;
+	private JCheckBox calefaccionChB;
 	private JLabel piscinaL;
 	private JCheckBox piscinaChB;
-	private JLabel jardínL;
-	private JCheckBox jardínChB;
+	private JLabel jardinL;
+	private JCheckBox jardinChB;
 	private JLabel trasteroL;
 	private JCheckBox trasteroChB;
 	private JLabel estadoL;
